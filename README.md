@@ -10,7 +10,7 @@
 
 🏫 I'm studying at the University of Waterloo (2nd year)
 
-🏛️ Currently an intern at @Dropbase (YC W20) - (Seeking opportunities for the Winter 2021 term)
+🏛️ Currently an intern at @Dropbase (YC W20) - (Seeking opportunities for the Winter 2021/2022 term)
 
  ⭐  I just finished working on creating a Go + Docker CLI application
  
