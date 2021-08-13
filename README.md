@@ -35,7 +35,7 @@
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/> 
   </a>
-  <a href="https://www.docker.org/" target="_blank"> 
+  <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> 
   </a>
   <a href="https://developer.android.com/" target="_blank"> 
