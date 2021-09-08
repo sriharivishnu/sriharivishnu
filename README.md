@@ -59,7 +59,7 @@
 
 <div align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=sriharivishnu&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sriharivishnu&theme=dark&fire=DD5151" alt="sriharivishnu" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sriharivishnu&theme=dark" alt="sriharivishnu" />
 
 </div>
 
