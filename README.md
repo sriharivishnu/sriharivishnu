@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome! 👋 </h1>
 
 <div align="center">
-  Hi! My name is <b>Srihari Vishnu</b>. I'm a software engineer with a passion for exploring new ideas and problems to tackle.
+  Hi! My name is <b>Srihari Vishnu</b>. I'm a software engineer with a passion for exploring new ideas and challenging myself.
   <br/>
   <br/>
 </div>
