@@ -10,7 +10,7 @@
 
 🏫 I'm studying at the University of Waterloo (2nd year)
 
-🏛️ Currently working as a contract worker @Dropbase (YC W20). Incoming intern @TextNow
+🏛️ Currently working @TextNow
 
  ⭐  I just finished working on creating a Go + Docker CLI application
  
