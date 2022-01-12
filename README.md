@@ -16,7 +16,7 @@
  
  🚀  I'm currently learning the Go Gin Framework for Server-Side development
  
- ✈️   My goal for my next project is to integrate machine learning
+ ✈️   My goal for my next project is to work with a low-level language
   
 <h2 align="center"> Languages & Tools </h1>
 <div align="center">
