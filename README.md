@@ -8,15 +8,14 @@
 
 
 
-🏫 I'm studying at the University of Waterloo (2nd year)
+🏫 I'm studying at the University of Waterloo (3rd year)
 
-🏛️ Previously @TextNow @Dropbase
+🏛️ Previously @Faire @TextNow @Dropbase
 
  ⭐  I just finished working on creating a Go + Docker CLI application
  
- 🚀  I'm currently learning the Go Gin Framework for Server-Side development
+ 🚀  I'm currently working on designing and implementing a database from scratch in Rust in a team of three
  
- ✈️   My goal for my next project is to work with a low-level language
   
 <h2 align="center"> Languages & Tools </h1>
 <div align="center">
