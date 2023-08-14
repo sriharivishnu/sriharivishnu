@@ -54,10 +54,3 @@
 
 </div>
 
-<h2 align="center"> Stats </h1>
-
-<div align= "center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sriharivishnu&show_icons=true&theme=dark" alt="sriharivishnu" />
-
-</div>
-
