@@ -1,20 +1,18 @@
 <h1 align="center"> Welcome! 👋 </h1>
 
 <div align="center">
-  Hi! My name is <b>Srihari Vishnu</b>. I'm a software engineer with a passion for exploring new ideas and challenging myself.
+  Hi! My name is <b>Sri Vishnu</b>. I'm a software engineer with a passion for exploring new ideas and challenging myself.
   <br/>
   <br/>
 </div>
 
 
 
-🏫 I'm studying at the University of Waterloo (3rd year)
+🏫 I'm studying at the University of Waterloo (4th year)
 
-🏛️ Previously @Faire @TextNow @Dropbase
-
- ⭐  I just finished working on creating a Go + Docker CLI application
+🏛️ Incoming @ Jane Street. Previously @Snowflake @BitGo @Faire
  
- 🚀  I'm currently working on designing and implementing a database from scratch in Rust in a team of three
+🚀  I'm currently working on designing and implementing a database system from scratch in Rust!
  
   
 <h2 align="center"> Languages & Tools </h1>
