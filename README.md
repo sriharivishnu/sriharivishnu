@@ -8,11 +8,11 @@
 
 
 
-🏫 I'm studying at the University of Waterloo (4th year)
+🏫 Studying at the University of Waterloo (4th year)
 
-🏛️ Incoming @ Jane Street. Previously @Snowflake @BitGo @Faire
+🏛️ Currently a SWE intern @ Jane Street. Previously @Snowflake @BitGo @Faire
  
-🚀  I'm currently working on designing and implementing a database system from scratch in Rust!
+🚀 Working on designing and implementing a database system in Rust!
  
   
 <h2 align="center"> Languages & Tools </h1>
