@@ -5,14 +5,6 @@
   <br/>
   <br/>
 </div>
-
-
-
-🏫 Studying at the University of Waterloo (4th year)
-
-🏛️ Currently a SWE intern @ Jane Street. Previously @Snowflake @BitGo @Faire
- 
-🚀 Working on designing and implementing a database system in Rust!
  
   
 <h2 align="center"> Languages & Tools </h1>
